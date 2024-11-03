@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @navidgolkar
-- 👀 I’m fluent in MATLAB, C#, C++, Java Processing, Fortran, python, javascript, HTML5, CSS3, (and little bit of TypeScript)
-- 🌱 I'm a graduate in Aerospace Engineering and currently I'm studying M.Sc. Mechatronics
-- 📫 How to reach me: navid.glkr@gmail.com
-- 😄 Pronouns: He/Him
+<ul>
+  <li>👋 Hi, I’m @navidgolkar</li>
+  <li>👀 I’m fluent in MATLAB, C#, C++, Java Processing, Fortran, python, javascript, HTML5, CSS3, (and little bit of TypeScript)</li>
+  <li>🌱 I'm a graduate in Aerospace Engineering and currently I'm studying M.Sc. Mechatronics</li>
+  <li>📫 How to reach me: navid.glkr@gmail.com</li>
+  <li>😄 Pronouns: He/Him</li>
+</ul>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navidgolkar&layout=donut&theme=dark"></p>
