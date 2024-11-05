@@ -5,4 +5,4 @@
   <li>📫 How to reach me: navid.glkr@gmail.com</li>
   <li>😄 Pronouns: He/Him</li>
 </ul>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navidgolkar&layout=donut&theme=dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navidgolkar&size_weight=0.5&count_weight=0.5&layout=donut&theme=dark"></p>
